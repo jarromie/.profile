@@ -22,7 +22,8 @@ ___
 
 #### contact || social media
 
-* [GitHub](https://github.com/jarromie)
+* [GitHub](https://github.com/jarromie) (jarromie)
+* [GitHub](https://github.com/whocodes) (whocodes)
 * [reddit](https://reddit.com/u/jarromie)
 * [Twitter](https://twitter.com/jarr0mie)
 * [Discord](https://discordapp.com/users/552672975124561932)
