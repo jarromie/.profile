@@ -1,5 +1,5 @@
 ![internet gangster](https://2.gravatar.com/avatar/8ede691a3c98dac140c9dec2c82b84ecd082c945995caca940bc5180cf9fc7c7?size=128)
-### jarromie (whocodes)
+### 👾 jarromie (whocodes)
 
 ___
 
@@ -15,6 +15,6 @@ ___
 * [Discord](https://discordapp.com/users/552672975124561932)
 * [Mastodon](https://mastodon.social/@jarromie)
 
-I am also always available at email via [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com).
+i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com).
 
-Feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). I use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! All glory to the guys at [Gitea.com](https://gitea.com/).
+feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/).
