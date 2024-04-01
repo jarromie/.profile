@@ -38,4 +38,4 @@ i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie
 
 ___
 
-feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/).
+feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/). **if you're working on projects utilizing [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins) and would like a free account on my Gitea instance (with unlimited private or public repositories and a wide range of other features), reach out and let me know! i'd love to help out.**
