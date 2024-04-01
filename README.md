@@ -33,7 +33,7 @@ ___
 
 i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com). business inquiries should be directed to [admin@whocodes.tech](mailto:admin@whocodes.tech).
 
-**if you're able to make use of any of the projects i work on, and you'd like to support my current work or future endevours, consider [buying me a coffee (or 🦀RuneScape membership🦀)](https://ko-fi.com/D1D3WD6SX)! thanks!**
+**if you're able to make use of any of the projects i work on, and you'd like to support my current work or future endevours, consider [buying me a coffee (or 🦀RuneScape membership🦀)](https://ko-fi.com/D1D3WD6SX) — any and all support is appreciated!**
 
 
 ___
