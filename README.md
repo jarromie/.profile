@@ -3,7 +3,7 @@
 
 ___
 
-#### about me || background
+#### about, and background
 
 full-time free-lance developer, trying to put myself through college at a late age, contributing to and supporting the open-source community when i'm able. my more recent projects have included various administration and utility plugins (and integrated websites) for [SourceMod](https://github.com/alliedmodders/sourcemod), a server-side addon for games running on the [Source Engine](https://en.wikipedia.org/wiki/Source_(game_engine)), as well as various projects and quality-of-life improvements for [RuneLite](https://github.com/runelite), a popular client for [Old School RuneScape](https://en.wikipedia.org/wiki/Old_School_RuneScape). prior to this, i got my start into programming (or, scripting, rather) around the year 2009, creating [Lua*u* (a Lua dialect)](https://en.wikipedia.org/wiki/Lua_(programming_language)#Dialects) scripts for the children's game [Roblox](https://en.wikipedia.org/wiki/Roblox), before later being introduced to [Minecraft](https://en.wikipedia.org/wiki/Minecraft) and [Garry's Mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) around the same time in 2012 and continuing on to make server-side [*g*Lua (a Lua dialect)](https://en.wikipedia.org/wiki/Lua_(programming_language)#Dialects) plugins for Garry's Mod servers, and [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) plugins for Minecraft servers, and advancing from there to create websites integrations for server plugins, using a basic [LEMP stack](https://en.wikipedia.org/wiki/Solution_stack#cite_ref-LEMPHome_12-0) and becoming proficient with [PHP](https://en.wikipedia.org/wiki/PHP) on the back-end, and [JavaScript](https://en.wikipedia.org/wiki/JavaScript) on the front-end. this knowledge led to me creating several semi-successful and profitable ventures throughout highschool, and allowed me to support myself and my disabled mother growing up. i have continued to work with a ton of different programming languages, frameworks, and systems for a myriad of different games, websites or programs and hope to continue programming and creating things that i love for the rest of my life.
 
@@ -11,7 +11,7 @@ i am an avid supporter of all things open-source, and do my best to support anyo
 
 ___
 
-#### current projects || future projects
+#### current, and future projects
 
 currently, i am working mostly on projects related to [Old School RuneScape](https://en.wikipedia.org/wiki/Old_School_RuneScape) and [RuneLite](https://github.com/runelite), including some automation and quality-of-life utilities using the powerful [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins). 
 
@@ -21,7 +21,7 @@ other than that, i spend most of my time developing websites, kiosk systems, or 
 
 ___
 
-#### contact || social media
+#### contact, and social accounts
 
 * [GitHub](https://github.com/jarromie) (jarromie)
 * [GitHub](https://github.com/whocodes) (whocodes)
@@ -37,5 +37,7 @@ i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie
 
 
 ___
+
+#### git.whocodes.tech
 
 feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). i use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! all glory to the geniuses at [Gitea.com](https://gitea.com/). **if you're working on projects utilizing [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins) or [SourceMod](https://github.com/alliedmodders/sourcemod), or just about anything gaming-related, and would like a free account on my Gitea instance (with unlimited private or public repositories and a wide range of other features), reach out and let me know! i'd love to help out anybody who is contributing to the community.**
