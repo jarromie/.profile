@@ -15,4 +15,6 @@ ___
 * [Discord](https://discordapp.com/users/552672975124561932)
 * [Mastodon](https://mastodon.social/@jarromie)
 
-Also, check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories)
+I am also always available at email via [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com).
+
+Feel free to check out my [private instance of Gitea](https://git.whocodes.tech/) where most of my projects are actually hosted (updates are automatically pushed and synced to my GitHub repositories). I use this primarily because it allows me to have unlimited private repositories for free, and is easy to connect with GitHub! All glory to the guys at [Gitea.com](https://gitea.com/).
