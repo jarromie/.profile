@@ -13,23 +13,20 @@ ___
 
 #### current, and future projects
 
-currently, i am working mostly on projects related to [Old School RuneScape](https://en.wikipedia.org/wiki/Old_School_RuneScape) and [RuneLite](https://github.com/runelite), including some automation and quality-of-life utilities using the powerful [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins). 
+currently, i am working mostly on projects related to [Old School RuneScape](https://en.wikipedia.org/wiki/Old_School_RuneScape) and [RuneLite](https://github.com/runelite), including some automation and quality-of-life utilities using the powerful [EthanApi](https://github.com/Ethan-Vann/EthanVannPlugins). i have played the game since 2005, and enjoy creating the things that make the game more enjoyable (for me, at least).
 
-i am also eagerly awaiting the official release of [s&box](https://sbox.game/) and will be working on some content for that game upon release (big big plans!) 
+other than that, i spend most of my time developing websites, kiosk systems, or other software solutions for local businesses in my area, as well as working a full-time job. i hope to some day transition to working full-time on the projects that i love.
 
-other than that, i spend most of my time developing websites, kiosk systems, or other software solutions for local businesses in my area, among other odd-jobs (when opportunity knocks, i answer) when able.
+i am also eagerly awaiting the official release of [s&box](https://sbox.game/) and will be working on some content for that game upon release (big plans) — i played [Garry's Mod](https://en.wikipedia.org/wiki/Garry%27s_Mod) and developed addons for many years, and i am excited to see the predecessor get released.
 
 ___
 
 #### contact, and social accounts
-
-* [GitHub](https://github.com/jarromie) (jarromie)
-* [GitHub](https://github.com/whocodes) (whocodes)
-* [reddit](https://reddit.com/u/jarromie) (u/jarromie)
-* [reddit](https://reddit.com/u/whocodes) (u/whocodes)
-* [Twitter](https://twitter.com/jarr0mie) (@jarr0mie)
+* [reddit](https://old.reddit.com/u/jarromie) (u/jarromie)
 * [Discord](https://discordapp.com/users/552672975124561932) (jarromie)
 * [Mastodon](https://mastodon.social/@jarromie) (@jarromie@mastodon.social)
+* [GitHub Profile](https://github.com/jarromie) (jarromie)
+* [GitHub Profile](https://github.com/whocodes) (whocodes)
 
 i am also always available via email at [jarromie@whocodes.tech](mailto:jarromie@whocodes.tech) or [jarromie@outlook.com](mailto:jarromie@outlook.com). business inquiries should be directed to [admin@whocodes.tech](mailto:admin@whocodes.tech).
 
